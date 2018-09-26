@@ -46,3 +46,8 @@ nav ul li a{
     transition: .5s;
     font-family: 'Roboto', sans-serif;
 }
+
+nav ul li a.active{
+    color:#fff;
+    background: #f00;
+}

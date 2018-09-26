@@ -26,6 +26,16 @@ nav .logo img{
     transition: .5s;   
 }
 
+nav.black .logo img{
+    height: 60px;
+}
+
+nav.black {
+    background: rgba(0,0,0,.8);
+    height: 90px;
+    padding: 10 50px;
+}
+
 /*nav ul style*/
 
 nav ul{
@@ -82,6 +92,7 @@ section.content{
     margin: 5px 10px;
     padding: 50px;
     text-align: center;
+    font-size: 1.1em;
 }
 
 section.content h1{
@@ -89,3 +100,4 @@ section.content h1{
     padding: 0;
     font-size: 2em;
 }
+

@@ -60,3 +60,32 @@ section.sec1{
     background: url(bg1.jpg);
     background-size:cover;
 }
+section.sec2{
+    width: 100%;
+    height: 100vh;;
+    background: url(bg2.jpg);
+    background-size:cover;
+}
+section.sec3{
+    width: 100%;
+    height: 100vh;;
+    background: url(bg3.jpg);
+    background-size:cover;
+}
+section.sec4{
+    width: 100%;
+    height: 100vh;;
+    background: url(bg4.jpg);
+    background-size:cover;
+}
+section.content{
+    margin: 5px 10px;
+    padding: 50px;
+    text-align: center;
+}
+
+section.content h1{
+    margin: 0;
+    padding: 0;
+    font-size: 2em;
+}

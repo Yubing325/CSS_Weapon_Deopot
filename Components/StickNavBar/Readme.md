@@ -6,3 +6,5 @@ This effect ultilize CSS3 transition and Jquery scroll methods. The DOM was chan
 ## Demo:
 
 ![demo](/img/sticky-nav-bar.gif)
+
+Credit: https://www.youtube.com/watch?v=_pZrP3r1rMo&t=440s

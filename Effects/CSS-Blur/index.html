@@ -4,10 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <style>
+        .blur{
+            filter: url(blur.svg#blur); /* FireFox, Chrome, Opera */
+            -webkit-filter: blur(10px); /* Chrome, Opera */
+        }
+    </style>
     <title>Image Blur by CSS</title>
 </head>
 <body>
     <img src="img.jpg" alt="cute kitty">
-    <img src="img.jpg" alt="blurry kitty">
+    <img src="img.jpg" class="blur" alt="blurry kitty">
 </body>
 </html>

@@ -6,6 +6,8 @@ The key effects was based on `transform: scaleY();` by which the objects (img or
 
 No JQuery used!
 
+Credit: https://www.youtube.com/watch?v=ltxxNidblts
+
 # Demo
 
 ![demo of this](/img/portfolios.gif)

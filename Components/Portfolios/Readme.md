@@ -8,4 +8,4 @@ No JQuery used!
 
 # Demo
 
-![demo of this](/img/Componets/portfolios.gif)
+![demo of this](/img/Components/portfolios.gif)

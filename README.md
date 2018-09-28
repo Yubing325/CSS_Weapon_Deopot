@@ -9,4 +9,4 @@ My daily CSS2.1 &amp; CSS 3 Excercises, at least one per each day
 - [Effects] [CSS Blur](/Effects/CSS-Blur/)
 - [COMPOMENT][A Sign-in Form](/Components/SigninForm/)         
 
-2018-9-28: [Components] [Image Garllery Portfolios](/Components/Portfolios/)
+2018-9-28: [Components] [Image Gallery Portfolios](/Components/Portfolios/)

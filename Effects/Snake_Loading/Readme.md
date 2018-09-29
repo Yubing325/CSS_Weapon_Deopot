@@ -11,3 +11,5 @@ So two animations (`animate` and `roate`) are being created.
 # Demo
 
 ![demo of this](/img/snake_loading.gif)
+
+Credit: Thanks to https://www.youtube.com/watch?v=MajaScL0lCs

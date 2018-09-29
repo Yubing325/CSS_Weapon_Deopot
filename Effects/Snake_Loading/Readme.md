@@ -5,3 +5,5 @@ In my [CSS loading Animations repository](https://github.com/Yubing325/LoadingAn
 # Demo
 
 ![demo of this](/img/snake_loading.gif)
+
+Credit: Thanks to https://www.youtube.com/watch?v=MajaScL0lCs

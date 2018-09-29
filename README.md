@@ -10,3 +10,5 @@ My daily CSS2.1 &amp; CSS 3 Excercises, at least one per each day
 - [COMPOMENT][A Sign-in Form](/Components/SigninForm/)         
 
 2018-9-28: [Components] [Image Gallery Portfolios](/Components/Portfolios/)
+
+2018-9-29 [Effects] [Snake Loading Animation](/Effects/Snake_Loading/)

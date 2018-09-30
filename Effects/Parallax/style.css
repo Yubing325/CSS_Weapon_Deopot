@@ -57,3 +57,12 @@ header * {
     margin: 0px;
     padding: 1em 0;
 }
+
+p {
+    position: relative;
+    top:25%;
+    color: #000;   
+    text-align: center;
+    margin: 60px;
+    padding: 10px; 
+}

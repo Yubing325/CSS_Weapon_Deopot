@@ -21,11 +21,33 @@ body {
     width: 100%;
     height: 100%;
     background: rebeccapurple;
+    /* add preserve 3d */
+    transform-style:preserve-3d; 
+    transition:.7s ease;
 }
 
 .card:hover{
     transform: rotateY(180deg);
 }
 
+.front {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    background: #ffc728;
+}
 
+.back {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    transform: rotateY(180deg);
+    background: #fafafa;
+}
 

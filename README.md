@@ -1,5 +1,5 @@
 # EverydayCSS
-My daily CSS2.1 &amp; CSS 3 Excercises, at least one per each day
+My daily CSS2.1 &amp; CSS 3 Excercises, at least one per each day(Except for Sundays.)
 
 2018-9-25: [Effects] [List-Items Hover Effects](/Effects/List_Items_Hover/)
 
@@ -11,7 +11,10 @@ My daily CSS2.1 &amp; CSS 3 Excercises, at least one per each day
 
 2018-9-28: [Components] [Image Gallery Portfolios](/Components/Portfolios/)
 
-2018-9-29 [Effects] [Snake Loading Animation](/Effects/Snake_Loading/)
+2018-9-29 
+- [Effects] [Snake Loading Animation](/Effects/Snake_Loading/)
+- [Effects] [Parallax](/Effects/Parallax/)
+
 
 
 2018-10-1 [Effects] [Flip Card](/Effects/flip_card/)

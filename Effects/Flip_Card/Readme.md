@@ -5,7 +5,7 @@ Flip card design is quite common in web design. It can be applied to loads of pl
 
 ## Summary
 
-The flip effect is mainly depends on setting `rotateY(180deg)` and ease the transition speed (.8s in this example). Using `transform-style:preserve-3d` to finish the flipping.
+The flip effect is mainly depends on setting `rotateY(180deg)` and ease the transition speed (.8s in this example). Using `transform-style:preserve-3d` to make the flipping looks real.
 
 # demo
 

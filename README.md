@@ -17,4 +17,4 @@ My daily CSS2.1 &amp; CSS 3 Excercises, at least one per each day(Except for Sun
 
 
 
-2018-10-1 [Effects] [Flip Card](/Effects/flip_card/)
+2018-10-1 [Effects] [Flip Card](/Effects/Flip_Card/)

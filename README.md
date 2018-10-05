@@ -20,3 +20,7 @@ My daily CSS2.1 &amp; CSS 3 Excercises, at least one per each day(Except for Sun
 2018-10-1 [Effects] [Flip Card](/Effects/Flip_Card/)
 
 2018-10-2 [Components] [Product Card](/Components/ProductCard/)
+
+2018-10-3 [Effects][Dynamic Button Effect](/Effects/Dynamic_Button_Effect/)
+
+2018-10-4 [Effects][Top Sticky](/Effects/Top-Sticky-Effect/)

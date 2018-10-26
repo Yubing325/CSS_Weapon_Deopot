@@ -1,5 +1,5 @@
 # EverydayCSS
-My daily CSS2.1 &amp; CSS 3 Excercises, at least one per each day(Except for Sundays.)
+
 
 2018-9-25: [Effects] [List-Items Hover Effects](/Effects/List_Items_Hover/)
 

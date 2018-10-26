@@ -1,4 +1,4 @@
-# EverydayCSS
+# CSS Weapon Depot
 
 
 2018-9-25: [Effects] [List-Items Hover Effects](/Effects/List_Items_Hover/)

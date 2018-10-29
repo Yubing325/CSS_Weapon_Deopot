@@ -1,5 +1,5 @@
 # CSS Weapon Depot
-
+A CSS weapons R&D center built for civil usage, and for become a better crafts-man/woman/being :)
 
 2018-9-25: [Effects] [List-Items Hover Effects](/Effects/List_Items_Hover/)
 

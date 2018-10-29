@@ -24,3 +24,7 @@
 2018-10-3 [Effects][Dynamic Button Effect](/Effects/Dynamic_Button_Effect/)
 
 2018-10-4 [Effects][Top Sticky](/Effects/Top-Sticky-Effect/)
+
+2018-10-5 [Effects][Characters Jumping for loading](/Effects/Jumping-Effects/)
+
+2018-10-24 [Effects][Gradient-Shadow](/Effects/Gradient-Shadow/)

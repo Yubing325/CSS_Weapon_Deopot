@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #000;
+}
+
+a{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    color:#fff;
+    font-size:24px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+

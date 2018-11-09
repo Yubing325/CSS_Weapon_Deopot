@@ -29,4 +29,4 @@ A CSS weapons R&D center built for civil usage, and for become a better crafts-m
 
 2018-10-24 [Effects][Gradient-Shadow](/Effects/Gradient-Shadow/)
 
-2018-11-07 [Effects][Gradient Button](/Effects/Gradient Button/)
+2018-11-07 [Effects][Gradient Button](/Effects/Gradient%20Button/)

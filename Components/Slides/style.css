@@ -39,6 +39,20 @@ html,body{
     background-position: center;
 }
 
+.slide:nth-child(3){
+    animation-delay: 3s;
+    background-image: url(images/home-page-banner-3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.slide:nth-child(4){
+    animation-delay: 3s;
+    background-image: url(images/home-page-banner-1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
 .slide p {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size:70px;

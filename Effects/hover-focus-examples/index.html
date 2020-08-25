@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        img{
+            visibility: hidden;
+            position: absolute;
+            transition:visibility .2s;
+        }
+
+        a:focus-within +img,
+        img:focus-within{
+            visibility: visible;
+            transition:none;
+        }
+
+        .cs-list{
+            display: none;
+            position: absolute;
+            border: 1px solid red;
+            background-color: #fff;
+        }
+
+        .y-table:focus-within .cs-list{
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <a href="javascript:;">The Link</a>
+    <img src="testing.jpg" alt="testing image">
+
+    <div class="y-table">
+        <a href="javascript:;">User Name</a>
+        <div class="cs-list">
+            <a href="javascript:;">Profile</a>
+            <a href="javascript:;">Articles</a>
+            <a href="javascript:;">Answers</a>
+            <a href="javascript:;">Favorites</a>
+            <a href="javascript:;">Logout</a>
+        </div>
+    </div>
+</body>
+</html>
